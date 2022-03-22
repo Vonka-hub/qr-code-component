@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: hsl(212, 45%, 89%);
+  text-align: center;
+}
+.container{
+  display: inline-block;
+  background-color: #fff;
+  padding: 20px;
+  font-family: 'Outfit', sans-serif;
+  padding-bottom: 40px;
+  text-align: center;
+  border-radius: 4%;
+  box-shadow: 3px 3px 20px 2px rgba(0,0,0,0.1);
+  margin-top: 50px;
+}
+
+.container img{
+  border-radius: 4%;
+  width: 325px;
+}
+
+.text-box{
+  margin-top: 30px;
+  text-align: center;
+}
+
+.text-box h2{
+ padding-bottom: 20px;
+}
+.text-box p{
+  color: hsl(220, 15%, 55%);
+  font-size: 15px;
+  text-align: none;
+}
